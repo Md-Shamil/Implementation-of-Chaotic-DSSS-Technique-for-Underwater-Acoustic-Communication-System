@@ -13,7 +13,7 @@ This repository contains the MATLAB implementation of a Chaotic Direct Sequence 
   - 📡 **Jamming**: Intentional interference injected into the channel.
   - 🕵️ **Eavesdropping**: Unauthorized attempts to decode the transmitted message.
 
----
+--- 
 
 ## 🛠 Key Features
 
