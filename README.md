@@ -20,7 +20,8 @@ This repository contains the MATLAB implementation of a Chaotic Direct Sequence 
 - ✅ Chaotic spreading sequence (logistic map)  
 - ✅ BPSK modulation  
 - ✅ Spreading and despreading using chaotic code  
-- ✅ AWGN channel modeling  
+- ✅ AWGN channel modeling
+- ✅ Power Spectrum Analysis 
 - ✅ Simulation of jamming and eavesdropping attacks  
 
 ---
